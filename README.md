@@ -39,7 +39,7 @@
 <p>Windows 10, VS code, PHP and Xampp</p>
 
 <h2>Installing</h2>
-<p>InfinityFree will be hosting the Mzamomtsha Primary School website.</p>
+<p>InfinityFree will be hosting the Mzamomtsha Primary School website and deployed using CPanel.</p>
 
 <h2>License</h2>
 <p>Netlify</p>
