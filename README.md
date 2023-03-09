@@ -32,7 +32,6 @@
 
 <h3>An example of the HTML and CSS code</h3>
 ![HTML code](https://user-images.githubusercontent.com/125980202/223802202-dfd68540-2e4c-4d76-81fb-9baec2a5fc8f.png)
-
 ![CSS code](https://user-images.githubusercontent.com/125980202/223802284-1d3fee8b-8143-4ce9-b334-7f603459436f.png)
 
 
